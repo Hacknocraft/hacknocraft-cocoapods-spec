@@ -1,6 +1,6 @@
-* Hacknocraft iOS Cocoapod Specs
+# Hacknocraft iOS Cocoapod Specs
 
-** Installation
+## Installation
 In the `Podfile`, please add:
 ```
 source 'https://github.com/Hacknocraft/hacknocraft-cocoapods-spec.git'
