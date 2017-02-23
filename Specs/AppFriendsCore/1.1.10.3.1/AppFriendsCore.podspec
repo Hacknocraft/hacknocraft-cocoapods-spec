@@ -8,7 +8,7 @@ s.summary = "Core SDK for AppFriends."
 s.requires_arc = true
 
 # 2
-s.version = "1.1.10_swift3.1"
+s.version = "1.1.10.3.1"
 
 # 3
 s.license = { :type => "MIT" }
@@ -21,7 +21,7 @@ s.homepage = "http://appfriends.me"
 
 # 6 - framework location
 s.vendored_frameworks = "AppFriendsCore.framework"
-s.source = { :git => "https://github.com/Hacknocraft/AppFriendsCore.git", :tag => s.version.to_s}
+s.source = { :git => "https://github.com/Hacknocraft/AppFriendsCore.git", :tag => "1.1.10_swift3.1"}
 
 # 7
 s.dependency 'Alamofire', '~> 4.3.0'
