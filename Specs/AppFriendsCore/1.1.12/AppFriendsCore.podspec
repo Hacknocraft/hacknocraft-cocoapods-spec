@@ -21,7 +21,7 @@ s.homepage = "http://appfriends.me"
 
 # 6 - framework location
 s.vendored_frameworks = "AppFriendsCore.framework"
-s.source = { :git => "https://github.com/Hacknocraft/AppFriendsCore.git", :tag => "swift3.1"}
+s.source = { :git => "https://github.com/Hacknocraft/AppFriendsCore.git", :tag => s.version.to_s}
 
 # 7
 s.dependency 'Alamofire', '~> 4.3.0'
