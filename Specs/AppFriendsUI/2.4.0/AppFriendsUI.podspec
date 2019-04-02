@@ -25,7 +25,7 @@ s.source = { :git => "https://github.com/Hacknocraft/AppFriendsUI.git", :tag => 
 
 # 7
 s.dependency 'JGProgressHUD', '~> 2.0.3'
-s.dependency 'AppFriendsCore', '~> 2.2.5'
-s.dependency 'AlamofireImage', '~> 3.5'
+s.dependency 'AppFriendsCore', '~> 2.3.0'
+s.dependency 'AlamofireImage', '~> 3.5.2'
 
 end
