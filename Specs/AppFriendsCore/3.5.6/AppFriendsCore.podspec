@@ -24,7 +24,7 @@ s.vendored_frameworks = "AppFriendsCore.framework"
 s.source = { :git => "https://github.com/Hacknocraft/AppFriendsCore.git", :tag => s.version.to_s}
 
 # 7
-s.dependency 'Alamofire', '~> 5.0.0-rc.3'
+s.dependency 'Alamofire', '~> 5.0.0'
 s.dependency 'SwiftyJWT', '~> 0.0.3'
 s.dependency 'CoreStore', '~> 7.0.1'
 s.dependency 'Cloudinary', '~> 1.0.15'
