@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
 
 # 1
-s.platform = :ios, '10.0'
-s.ios.deployment_target = '10.0'
+s.platform = :ios, '12.0'
+s.ios.deployment_target = '12.0'
 s.name = "AppFriendsUI"
 s.summary = "UI components for AppFriends."
 s.requires_arc = true
